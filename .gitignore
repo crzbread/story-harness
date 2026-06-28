@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+presets.generated.json
+
+runs/*
+!runs/.keep
+
+stories/*
+!stories/.keep
+
+outlines/*
+!outlines/.keep

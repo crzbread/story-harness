@@ -1,0 +1,11 @@
+{
+  "runtime": {
+    "rounds": 3,
+    "ollama_url": "http://localhost:11434",
+    "num_ctx": 2048,
+    "num_predict": 2500,
+    "writer_temperature": 0.8,
+    "reviewer_temperature": 0.3,
+    "keep_alive": "0s"
+  }
+}
